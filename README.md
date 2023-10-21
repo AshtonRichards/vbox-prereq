@@ -3,31 +3,29 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Prerequisites for Installation & configuration of Virtual Machines </h1>
+This tutorial outlines the prerequisites and installation of the virtualization software Virtual Box and creating Virtual Machines.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install & Configure Virtual Box with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Virtual Box (Virtual Machines)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10
+- Ubuntu Linux</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
-- Create a Resource Group in Azure
 - Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
-- Item 3
-- Item 4
-- Item 5
+- Create a Linux Virtual Machine (VM) with 2-4 Virtual CPUs
+- Configure the network & IP address for the Windows Machine
+- Configure the network and IP address for the Linux Machine
 
 <h2>Installation Steps</h2>
 
