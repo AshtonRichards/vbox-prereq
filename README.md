@@ -1,7 +1,9 @@
 # vbox-prereq
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+  ![virtualbox-maquina-virtual](https://github.com/AshtonRichards/vbox-prereq/assets/78703172/4fb9ef66-4c39-4859-8fc7-6841783f1da7)
+
+  </p>!
 
 <h1>osTicket - Prerequisites for Installation & configuration of Virtual Machines </h1>
 This tutorial outlines the prerequisites and installation of the virtualization software Virtual Box and creating Virtual Machines.<br />
