@@ -14,6 +14,8 @@ This tutorial outlines the prerequisites and installation of the virtualization 
 <h2>Environments and Technologies Used</h2>
 
 - Virtual Box (Virtual Machines)
+- puTTY
+- Python
 
 <h2>Operating Systems Used </h2>
 
